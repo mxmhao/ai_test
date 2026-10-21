@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# 虚拟环境
+.venv/
+
+# 测试与工具缓存
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# uv
+# uv.lock 保留提交以保证可复现构建
